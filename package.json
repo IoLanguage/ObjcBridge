@@ -1,0 +1,15 @@
+{
+  "name":         "ObjcBridge",
+  "version":      "0.1",
+  "description":  "Objective-C bridge.",
+  "author":       "Steve Dekorte",
+  "website":      "http://iolanguage.org/",
+  "readme":       "README.md",
+  "protos":       ["ObjcBridge"],
+  "dependencies": {
+    "libs":     [],
+    "headers":  [],
+    "protos":   [],
+    "packages": ["https://github.com/IoLanguage/Box.git",  "https://github.com/IoLanguage/Socket.git", "https://github.com/IoLanguage/SystemCall.git", "https://github.com/IoLanguage/MD5.git", "https://github.com/IoLanguage/Yajl.git", "https://github.com/IoLanguage/Blowfish.git"]
+  }
+}
